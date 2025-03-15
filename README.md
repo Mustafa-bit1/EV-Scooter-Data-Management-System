@@ -6,7 +6,12 @@
 
 
 ## EV Dashboard ( Android App On Custom OS )
+![GIFMaker_me](https://github.com/user-attachments/assets/f6cd2b6c-81e8-4b3d-9734-c5fdb5c8060c)
 
-<img src="https://github.com/user-attachments/assets/152a7a0e-3f92-4085-91bd-66dcc337381a" width="500"/>
+## Companion Mobile App (For EV Owner)
+
+![esfrgdhj_page-0001 (1)](https://github.com/user-attachments/assets/6b053bc0-f98a-4ebe-8319-a74c0e76e18e)
+
+
 
 
