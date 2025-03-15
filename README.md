@@ -2,7 +2,7 @@
  ## Technologies : Android Development, SpringBoot, PostgresSQL, Figma(UI/UX)
 
 ## High Level Architecture
-![asdfghjh_page-0001 (1)](https://github.com/user-attachments/assets/a7442264-f99f-4794-8308-324cf97faaea)
+![asdfghjh_page-0001 (2) (1)](https://github.com/user-attachments/assets/4a37751e-76dc-40a5-b9fd-b39c37b8ad0d)
 
 
 ## EV Dashboard ( Android App On Custom OS )
