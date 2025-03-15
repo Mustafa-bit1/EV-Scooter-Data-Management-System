@@ -2,7 +2,7 @@
  ## Technologies : Android Development, SpringBoot, PostgresSQL, Figma(UI/UX)
 
 #High Level Architecture
-![asdfghjh_page-0001](https://github.com/user-attachments/assets/9d4d6728-22c5-49d9-9eda-e0c93b42266a)
+![asdfghjh_page-0001 (1)](https://github.com/user-attachments/assets/a7442264-f99f-4794-8308-324cf97faaea)
 
 
 
