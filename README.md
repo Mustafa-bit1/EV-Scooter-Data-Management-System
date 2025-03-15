@@ -4,14 +4,6 @@
 ## High Level Architecture
 ![asdfghjh_page-0001 (2) (1)](https://github.com/user-attachments/assets/4a37751e-76dc-40a5-b9fd-b39c37b8ad0d)
 
-
-## EV Dashboard ( Android App On Custom OS )
-![GIFMaker_me](https://github.com/user-attachments/assets/f6cd2b6c-81e8-4b3d-9734-c5fdb5c8060c)
-
-## Companion Mobile App (For EV Owner)
-
-![esfrgdhj_page-0001 (1)](https://github.com/user-attachments/assets/6b053bc0-f98a-4ebe-8319-a74c0e76e18e)
-
 ## 📌 Project Overview  
 This project consists of an **EV Dashboard Android app** that continuously **sends real-time vehicle data** to a **Spring Boot backend** using **Retrofit**. The backend processes and **stores the data in a PostgreSQL database**, dynamically creating tables for each vehicle based on its **VIN number**.  
 
@@ -39,8 +31,14 @@ Simultaneously, a **Companion Mobile App** connects to the server, requests **re
    - Requests real-time telemetry updates from the server.  
    - Displays key vehicle parameters such as **battery status, speed, and diagnostics**.  
 
-## 📸 Demo  
-<img src="https://github.com/user-attachments/assets/152a7a0e-3f92-4085-91bd-66dcc337381a" width="600"/>
+## EV Dashboard ( Android App On Custom OS )
+![GIFMaker_me](https://github.com/user-attachments/assets/f6cd2b6c-81e8-4b3d-9734-c5fdb5c8060c)
+
+## Companion Mobile App (For EV Owner)
+
+![esfrgdhj_page-0001 (1)](https://github.com/user-attachments/assets/6b053bc0-f98a-4ebe-8319-a74c0e76e18e)
+
+
 
 
 
