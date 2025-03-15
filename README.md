@@ -3,6 +3,7 @@
 
 #High Level Architecture
 ![ev Data Mangement Architectuire_page-0001](https://github.com/user-attachments/assets/c6120d53-7eeb-4228-a063-cdc55b59b16b)
+![image](https://github.com/user-attachments/assets/1bf97ed5-0681-46cc-afee-247ef148b956)
 
 
 
