@@ -13,8 +13,8 @@ Simultaneously, a **Companion Mobile App** connects to the server, requests **re
 - **Android (Dashboard & Companion App)** – Retrofit for API communication  
 - **Spring Boot** – RESTful API backend  
 - **PostgreSQL** – Database storage with dynamic VIN-based tables  
-- **Cloud Deployment** – For scalable real-time data processing  
-- **WebSockets/HTTP** – For real-time data transmission  
+- **Cloud Deployment** – Deployed on Google Cloud for scalable real-time data processing  
+- **Figma** – For UI/UX Design And Animations  
 
 ## 🔗 System Architecture  
 1. **EV Dashboard App:**  
